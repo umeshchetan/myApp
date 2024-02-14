@@ -11,6 +11,7 @@ function App() {
       <h1>Hello world i am updated!!</h1>
       <HeaderComp name='World' />
       <FooterComp />
+      <h1>ghjhygtfghyujihyg</h1>
     </div>
   );
 }
